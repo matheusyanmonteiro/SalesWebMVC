@@ -10,7 +10,7 @@
 
 <br>
 
-# tecnologias 
+## tecnologias 
 <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/">🔗 c#</a><br>
 
 <a href="https://dotnet.microsoft.com/download/dotnet/2.1">🔗 .net framework 2.1</a><br>
@@ -18,3 +18,13 @@
 <a href="https://getbootstrap.com/">🔗 Bootstrap</a><br>
 
 <a href="https://visualstudio.microsoft.com/pt-br/">🔗 Visual Studio </a><br>
+
+<h4 align="center"> 
+	🚧  Projeto  Em construção...  🚀🚧
+</h4>
+
+### Features
+
+- [x] Cadastro de Departamento
+- [x] Cadastro de Vendas
+- [ ] Refatorar Home Page
